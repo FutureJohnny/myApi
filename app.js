@@ -10,7 +10,7 @@ var config = require('./config/database');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
-git add *
+
 var app = express();
 
 // view engine setup
